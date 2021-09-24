@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:leap2="http://terms.leapspecs.org/"
+    xmlns:categories="http://wiki.leapspecs.org/2A/categories/"
+    xmlns:portfolio="https://eportfolio.u-pec.fr/export/leap/2963/1632476977/"
+    xmlns:mahara="http://wiki.mahara.org/Developer_Area/Import%2F%2FExport/LEAP_Extensions#"
+>
+    <leap2:version>http://www.leapspecs.org/2010-07/2A/</leap2:version>
+    <id>https://eportfolio.u-pec.fr/export/2963/1632476977</id>
+    <title>Mahara Leap2A Export for KILLIAN WATREMEZ, 24/09/2021 11:49</title>
+    <updated>2021-09-24T11:11:37+02:00</updated>
+    <generator uri="https://mahara.org/" version="2008122400">Mahara</generator>
+    <author>
+        <name>KILLIAN WATREMEZ</name>
+        <email>killian.watremez@etu.u-pec.fr</email>
+        <uri>portfolio:artefactinternal</uri>
+    </author>
+
+    <entry>
+        <title>Profile page</title>
+        <id>portfolio:view23890</id>
+
+        <updated>2021-09-24T09:09:24+02:00</updated>
+        <published>2021-09-24T09:09:24+02:00</published>
+        <summary>Your profile page is what others see when they click on your name or profile picture.</summary>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_row_1" class="clearfix">
+    <div class="row-content">
+    <div id="user_row_1_column_1" class="column-layout columns2 first col-width-50" style="width:48%;">
+    <div class="column-content">
+        <div class="bt-profileinfo panel panel-secondary clearfix" id="user_blockinstance_98987">
+            <h3 class="title panel-heading js-heading">
+            
+
+            About me
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98987_target">
+        <div class="panel-body flush">
+
+
+
+    <ul class="unstyled profile-info"><li><strong>Nom préféré:</strong> Killian Watremez</li>
+            
+                                    <li><strong>Identifiant étudiant:</strong> u32103129</li>
+            
+                                    <li><strong>Nom:</strong> WATREMEZ</li>
+            
+                                    <li><strong>Prénom:</strong> KILLIAN</li>
+            
+        
+    </ul></div>
+
+
+        
+    </div>
+</div>
+<div class="bt-myviews panel panel-secondary clearfix" id="user_blockinstance_98986">
+            <h3 class="title panel-heading js-heading">
+            
+
+            My portfolios
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98986_target">
+            <div class="list-group">
+        <div id="user_myviewlist" class="list-group">
+                <div class="list-group-item">
+        <a href="https://eportfolio.u-pec.fr/view/view.php?id=23899" class="outer-link">
+            <span class="sr-only">Découverte de Mahara</span>
+        </a>
+
+        <h4 class="title list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23899">Découverte de Mahara</a>
+        </h4>
+
+        
+        
+                <div class="list-group-item-text text-small">
+            Mes premiers pas sur Mahara
+        </div>
+        
+
+        
+    </div>
+
+
+        </div>
+            <div id="user_myviews_page_container" class="hidden"><div id="user_myviews_pagination" class="pagination-wrapper center"><div class="lead text-small results pull-right">1 résultat</div></div></div>
+    
+        </div>
+
+
+
+
+        
+    </div>
+</div>
+<div class="bt-mygroups panel panel-secondary clearfix" id="user_blockinstance_98985">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Mes groupes
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98985_target">
+            <div class="panel-body">
+        <p class="no-results-small">Affilié à aucun groupe</p>
+    </div>
+
+
+
+        
+    </div>
+</div>
+
+    </div>
+</div>
+<div id="user_row_1_column_2" class="column-layout columns2 last col-width-50" style="width:48%;">
+    <div class="column-content">
+        <div class="bt-myfriends panel panel-secondary clearfix" id="user_blockinstance_98984">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Mes contacts
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98984_target">
+        <div class="friends panel-body">
+            <div class="lead text-small text-center">
+            Essayez la <a href="https://eportfolio.u-pec.fr/user/find.php">recherche de contacts </a> pour étendre votre réseau !
+        </div>
+    
+
+</div>
+
+
+        
+    </div>
+</div>
+<div class="bt-wall panel panel-secondary clearfix" id="user_blockinstance_98983">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Mur
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98983_target">
+        <div id="user_wall-wrap" class="panel-form"><p class="metadata">Au maximum 1500 caractères par message.</p><div>Envoyer <span class="requiredmarker">*</span></div><div class="makeprivate checkbox form-group">Rendre votre message privé ? <div class="form-switch">    <div class="switch" style="width:61px;">            <span class="switch-inner"></span>            <span class="switch-indicator"></span>            <span class="state-label on">Yes</span>            <span class="state-label off">No</span>            </div></div></div><div class="form-group"></div></div><div id="user_wall" class="wall">
+            <div class="lead text-small text-center">Aucun message à afficher sur le mur</div>
+    
+    
+</div>
+    <a href="https://eportfolio.u-pec.fr/blocktype/wall/wall.php?id=98983" class="detail-link link-blocktype"><span class="icon icon-arrow-circle-right"></span> Voir tout le mur</a>
+
+
+
+        
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact62996"/>
+        <link rel="leap2:has_part" href="portfolio:artefact62995"/>
+        <link rel="leap2:has_part" href="portfolio:artefact62994"/>
+        <link rel="leap2:has_part" href="portfolio:artefact62993"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="50,50" mahara:type="profile" mahara:ownerformat="6">
+          <mahara:row>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="profileinfo" mahara:blocktitle="About me">
+                    <mahara:fields>[[&quot;preferredname&quot;,&quot;studentid&quot;,&quot;lastname&quot;,&quot;firstname&quot;]]</mahara:fields>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="My pages">
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="mygroups" mahara:blocktitle="My groups">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="myfriends" mahara:blocktitle="My friends">
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="wall" mahara:blocktitle="Wall">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+
+          </mahara:row>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Dashboard page</title>
+        <id>portfolio:view23891</id>
+
+        <updated>2021-09-24T09:09:24+02:00</updated>
+        <published>2021-09-24T09:09:24+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_row_1" class="clearfix">
+    <div class="row-content">
+    <div id="user_row_1_column_1" class="column-layout columns2 first col-width-50" style="width:48%;">
+    <div class="column-content">
+        <div class="bt-newviews panel panel-secondary clearfix" id="user_blockinstance_98991">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Latest changes I can view
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98991_target">
+        <div class="list-group">
+        <div class="list-group-item">
+        <h4 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23899">Découverte de Mahara</a>
+        </h4>
+        <span class="text-small text-midtone"></span>
+                <div class="groupuserdate text-small">
+                                            <a href="https://eportfolio.u-pec.fr/user/view.php?id=2963" class="text-link">
+                    Killian Watremez
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                -                     Mis à jour
+                
+                24 septembre 2021
+            </span>
+        </div>
+                <p class="detail list-group-item-text text-small">
+            Mes premiers pas sur Mahara
+        </p>
+        
+    </div>
+        <div class="list-group-item">
+        <h4 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23862">Decouverte de Mahara </a>
+        </h4>
+        <span class="text-small text-midtone"></span>
+                <div class="groupuserdate text-small">
+                                            <a href="https://eportfolio.u-pec.fr/user/view.php?id=2944" class="text-link">
+                    Fabio Monte
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                -                     Mis à jour
+                
+                23 septembre 2021
+            </span>
+        </div>
+                <p class="detail list-group-item-text text-small">
+            Mes premiers pas sur Mahara
+        </p>
+        
+    </div>
+        <div class="list-group-item">
+        <h4 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23861">Découverte de Mahara</a>
+        </h4>
+        <span class="text-small text-midtone"></span>
+                <div class="groupuserdate text-small">
+                                            <a href="https://eportfolio.u-pec.fr/user/view.php?id=2947" class="text-link">
+                    Kishanthan Ratnalingam
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                -                     Mis à jour
+                
+                23 septembre 2021
+            </span>
+        </div>
+                <p class="detail list-group-item-text text-small">
+            Mes premiers pas sur Mahara !
+        </p>
+        
+    </div>
+        <div class="list-group-item">
+        <h4 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23860">Decouverte de portfolio</a>
+        </h4>
+        <span class="text-small text-midtone"></span>
+                <div class="groupuserdate text-small">
+                                            <a href="https://eportfolio.u-pec.fr/user/view.php?id=2941" class="text-link">
+                    Jananthan
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                -                     Mis à jour
+                
+                23 septembre 2021
+            </span>
+        </div>
+                <p class="detail list-group-item-text text-small">
+            decouverte
+        </p>
+        
+    </div>
+        <div class="list-group-item">
+        <h4 class="list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23292">Présentation</a>
+        </h4>
+        <span class="text-small text-midtone">(4 pages)</span>
+                <div class="groupuserdate text-small">
+                                            <a href="https://eportfolio.u-pec.fr/user/view.php?id=2737" class="text-link">
+                    Nicolas Bugielski
+                </a>
+            
+        
+            <span class="postedon text-midtone">
+                -                     Mis à jour
+                
+                22 septembre 2021
+            </span>
+        </div>
+        
+    </div>
+    
+</div>
+
+
+
+        
+    </div>
+</div>
+<div class="bt-myviews panel panel-secondary clearfix" id="user_blockinstance_98990">
+            <h3 class="title panel-heading js-heading">
+            
+
+            My portfolios
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98990_target">
+            <div class="list-group">
+        <div id="user_myviewlist" class="list-group">
+                <div class="list-group-item">
+        <a href="https://eportfolio.u-pec.fr/view/view.php?id=23899" class="outer-link">
+            <span class="sr-only">Découverte de Mahara</span>
+        </a>
+
+        <h4 class="title list-group-item-heading text-inline">
+            <a href="https://eportfolio.u-pec.fr/view/view.php?id=23899">Découverte de Mahara</a>
+        </h4>
+
+        
+        
+                <div class="list-group-item-text text-small">
+            Mes premiers pas sur Mahara
+        </div>
+        
+
+        
+    </div>
+
+
+        </div>
+            <div id="user_myviews_page_container" class="hidden"><div id="user_myviews_pagination" class="pagination-wrapper center"><div class="lead text-small results pull-right">1 résultat</div></div></div>
+    
+        </div>
+
+
+
+
+        
+    </div>
+</div>
+
+    </div>
+</div>
+<div id="user_row_1_column_2" class="column-layout columns2 last col-width-50" style="width:48%;">
+    <div class="column-content">
+        <div class="bt-inbox panel panel-secondary clearfix" id="user_blockinstance_98988">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Boîte de réception
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98988_target">
+            <div id="user_inboxblock" class="inboxblock list-group">
+                <div class="has-attachment panel-default collapsible list-group-item">
+                            <a class="collapsed link-block" href="#message_content_maharamessage_46413">
+                                            <span class="icon icon-wrench text-default left"></span>
+                    
+                    <span class="sr-only"></span>
+                    Institution membership confirmation
+                    <span class="icon icon-chevron-down collapse-indicator pull-right text-small"></span>
+                </a>
+            
+            <div class="collapse" id="user_message_content_maharamessage_46413">
+                                    <p class="content-text">You have been added as a member of UPEC.</p>
+                    
+                    
+                
+            </div>
+        </div>
+        
+    </div>
+    
+
+
+
+        
+                            <a href="https://eportfolio.u-pec.fr/module/multirecipientnotification/inbox.php" class="detail-link link-blocktype"><span class="icon icon-link"></span> Description alternative du lien</a>
+            
+        
+    </div>
+</div>
+<div class="bt-inbox panel panel-secondary clearfix" id="user_blockinstance_98989">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Sujets que je suis
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_98989_target">
+            <div class="panel-body">
+        <p class="lead text-small">Pas de messages</p>
+    </div>
+
+
+
+        
+                            <a href="https://eportfolio.u-pec.fr/module/multirecipientnotification/inbox.php" class="detail-link link-blocktype"><span class="icon icon-link"></span> Description alternative du lien</a>
+            
+        
+    </div>
+</div>
+
+    </div>
+</div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="50,50" mahara:type="dashboard" mahara:ownerformat="6">
+          <mahara:row>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="newviews" mahara:blocktitle="">
+                    <mahara:limit>[5]</mahara:limit>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="myviews" mahara:blocktitle="">
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="">
+                    <mahara:feedback>[true]</mahara:feedback>
+                    <mahara:groupmessage>[true]</mahara:groupmessage>
+                    <mahara:institutionmessage>[true]</mahara:institutionmessage>
+                    <mahara:maharamessage>[true]</mahara:maharamessage>
+                    <mahara:usermessage>[true]</mahara:usermessage>
+                    <mahara:viewaccess>[true]</mahara:viewaccess>
+                    <mahara:watchlist>[true]</mahara:watchlist>
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+                    <mahara:wallpost>[true]</mahara:wallpost>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="inbox" mahara:blocktitle="">
+                    <mahara:newpost>[true]</mahara:newpost>
+                    <mahara:maxitems>[&quot;5&quot;]</mahara:maxitems>
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+
+          </mahara:row>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Découverte de Mahara</title>
+        <id>portfolio:view23899</id>
+
+        <updated>2021-09-24T09:09:26+02:00</updated>
+        <published>2021-09-24T09:09:47+02:00</published>
+        <summary type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Mes premiers pas sur Mahara</p></div></div></summary>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><div id="user_row_1" class="clearfix">
+    <div class="row-content">
+    <div id="user_row_1_column_1" class="column-layout columns3 first col-width-33" style="width:31%;">
+    <div class="column-content">
+        <div class="bt-image panel panel-secondary clearfix collapsible" id="user_blockinstance_99029">
+            <h3 class="title panel-heading js-heading">
+                        <a href="#blockinstance_99029_target" class="outer-link"></a>
+            
+
+            Image
+            
+
+
+                        <span class="icon icon-chevron-up collapse-indicator pull-right"></span>
+            
+
+        </h3>
+    
+
+    <div class="block collapse in" id="user_blockinstance_99029_target">
+        <div class="imageblock panel-body">
+    <div class="image">
+        <a href="https://eportfolio.u-pec.fr/artefact/artefact.php?artefact=63033&amp;view=23899">
+            <img rel="leap2:has_part" href="portfolio:artefact63033" alt="" /></a>
+    </div>
+
+    
+</div>
+
+    <div class="comments pull-left">
+        
+                    <a class="addcomment link-blocktype" href="https://eportfolio.u-pec.fr/artefact/artefact.php?view=23899&amp;artefact=63033">
+                <span class="icon icon-arrow-circle-right"></span>
+                Ajouter un commentaire
+            </a>
+        
+    </div>
+
+    <div class="feedback modal modal-docked" id="user_feedbacktable_99029">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header clearfix">
+                    
+                        <span class="times">×</span>
+                        <span class="sr-only">Fermer</span>
+                    
+                    <h4 class="modal-title pull-left">
+                        <span class="icon icon-lg icon-comments left"></span>
+                        Commentaires - one piece.jpg
+                    </h4>
+                                        <a class="addcomment pull-right" href="https://eportfolio.u-pec.fr/artefact/artefact.php?view=23899&amp;artefact=63033">
+                        Ajouter un commentaire
+                        <span class="icon icon-arrow-right right"></span>
+                    </a>
+                    
+                </div>
+                <div class="modal-body flush">
+                
+<div class="list-group list-group-lite">
+
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+        
+                            <a href="https://eportfolio.u-pec.fr/artefact/artefact.php?artefact=63033&amp;view=23899&amp;block=99029" class="detail-link link-blocktype"><span class="icon icon-link"></span> Description alternative du lien</a>
+            
+        
+    </div>
+</div>
+<div class="bt-text panel panel-secondary clearfix" id="user_blockinstance_99016">
+            <h3 class="title panel-heading js-heading">
+            
+
+            Texte
+            
+
+
+            
+
+        </h3>
+    
+
+    <div class="block" id="user_blockinstance_99016_target">
+        <div class="textblock panel-body flush">
+<p>Description de notre première page</p>
+</div>
+
+
+        
+    </div>
+</div>
+
+    </div>
+</div>
+<div id="user_row_1_column_2" class="column-layout columns3 col-width-33" style="width:31%;">
+    <div class="column-content">
+        
+    </div>
+</div>
+<div id="user_row_1_column_3" class="column-layout columns3 last col-width-33" style="width:31%;">
+    <div class="column-content">
+        
+    </div>
+</div>
+
+    </div>
+</div>
+</div></div></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+
+        <link rel="leap2:has_part" href="portfolio:artefact63033"/>
+
+
+        <category term="Webpage" scheme="categories:selection_type#"/>
+
+
+
+
+
+        <mahara:view mahara:layout="33,33,33" mahara:type="portfolio" mahara:ownerformat="6">
+          <mahara:row>
+            <mahara:column>
+                <mahara:blockinstance mahara:blocktype="image" mahara:blocktitle="Image">
+                    <mahara:artefactid>[&quot;portfolio:artefact63033&quot;]</mahara:artefactid>
+                    <mahara:showdescription>[true]</mahara:showdescription>
+                    <mahara:width>[&quot;&quot;]</mahara:width>
+                    <mahara:retractable>[1]</mahara:retractable>
+                    <mahara:retractedonload>[0]</mahara:retractedonload>
+
+                </mahara:blockinstance>
+                <mahara:blockinstance mahara:blocktype="text" mahara:blocktitle="Texte">
+                    <mahara:text>[&quot;&lt;p&gt;Description de notre premi&amp;egrave;re page&lt;\/p&gt;&quot;]</mahara:text>
+
+                </mahara:blockinstance>
+
+            </mahara:column>
+            <mahara:column>
+
+            </mahara:column>
+            <mahara:column>
+
+            </mahara:column>
+
+          </mahara:row>
+
+        </mahara:view>
+    </entry>
+
+    <entry>
+        <title>Journal de Killian Watremez</title>
+        <id>portfolio:artefact62997</id>
+
+        <updated>2021-09-24T09:09:24+02:00</updated>
+        <published>2021-09-24T09:09:24+02:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="blog" mahara:plugin="blog"/>
+
+
+        <category term="Blog" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>one piece.jpg</title>
+        <id>portfolio:artefact63033</id>
+
+        <updated>2021-09-24T09:09:54+02:00</updated>
+        <published>2021-09-24T09:09:54+02:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/jpeg" href="files/0-one piece.jpg"/>
+        <link rel="leap2:is_part_of" href="portfolio:view23899"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Historique de formation</title>
+        <id>portfolio:artefact63276</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+        <published>2021-09-24T10:10:58+02:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-63276-child-581" leap2:display_order="2"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-63276-child-574" leap2:display_order="1"/>
+
+
+        <category term="Grouping" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Réseau-Télécommunication</title>
+        <id>portfolio:resumecomposite-63276-child-581</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content>En But-Réseau-Télécommunication nous sommes spécialisé dans l&#039;informatique , surtout dans le réseau , la programmation , télécommunication et la cybersécurité .</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact63276" leap2:display_order="2"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-63276-sibling-581-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-63276-sibling-581-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="2021"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="2024"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title> IUT de Créteil-Vitry - UPEC</title>
+        <id>portfolio:resumesibling-63276-sibling-581-rel-supports</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-63276-child-581"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>But</title>
+        <id>portfolio:resumesibling-63276-sibling-581-rel-supported_by</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content>Réseau-Télécommunication</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-63276-child-581"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>STI2D SIN</title>
+        <id>portfolio:resumecomposite-63276-child-574</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content>Le bac STI2D spécialité SIN est orienté dans l&#039;informatique mais aussi dans le développement durable .</content>
+        <rdf:type rdf:resource="leap2:activity"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact63276" leap2:display_order="1"/>
+        <link rel="leap2:supported_by" href="portfolio:resumesibling-63276-sibling-574-rel-supports"/>
+        <link rel="leap2:supports" href="portfolio:resumesibling-63276-sibling-574-rel-supported_by"/>
+
+
+        <category term="Education" scheme="categories:life_area#"/>
+
+
+
+
+
+
+        <leap2:date leap2:point="start" leap2:label="2018"></leap2:date>
+
+        <leap2:date leap2:point="end" leap2:label="2021"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Lycée Langevin Wallon</title>
+        <id>portfolio:resumesibling-63276-sibling-574-rel-supports</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:organization"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supports" href="portfolio:resumecomposite-63276-child-574"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>Bac </title>
+        <id>portfolio:resumesibling-63276-sibling-574-rel-supported_by</id>
+
+        <updated>2021-09-24T11:11:08+02:00</updated>
+
+
+        <content>STI2D SIN</content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:educationhistory" mahara:plugin="resume"/>
+        <link rel="leap2:supported_by" href="portfolio:resumecomposite-63276-child-574"/>
+
+
+
+
+
+
+
+
+
+
+    </entry>
+
+    <entry>
+        <title>Certifications, accréditations et prix obtenus</title>
+        <id>portfolio:artefact63322</id>
+
+        <updated>2021-09-24T11:11:33+02:00</updated>
+        <published>2021-09-24T10:10:24+02:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:selection"/>
+        <mahara:artefactplugin mahara:type="certification" mahara:plugin="resume"/>
+        <link rel="leap2:has_part" href="portfolio:resumecomposite-63322-child-187" leap2:display_order="1"/>
+
+
+        <category term="Grouping" scheme="categories:selection_type#"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Bac STI2D SIN</title>
+        <id>portfolio:resumecomposite-63322-child-187</id>
+
+        <updated>2021-09-24T11:11:33+02:00</updated>
+
+
+        <content>Pendant l&#039;année 2020-2021 j&#039;ai obtenu mon bac STI2D SIN mention bien </content>
+        <rdf:type rdf:resource="leap2:achievement"/>
+        <mahara:artefactplugin mahara:type="pseudo:certification" mahara:plugin="resume"/>
+        <link rel="leap2:is_part_of" href="portfolio:artefact63322" leap2:display_order="1"/>
+
+
+
+
+
+
+
+
+
+        <leap2:date leap2:point="end" leap2:label="2020-2021"></leap2:date>
+
+    </entry>
+
+    <entry>
+        <title>Objectifs personnels</title>
+        <id>portfolio:artefact63343</id>
+
+        <updated>2021-09-24T11:11:37+02:00</updated>
+        <published>2021-09-24T11:11:21+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Après mon BUT Réseau-Télécommunication je souhaite continuer sur un Master en spécialité Cybersécurité pour ensuite faire le métier de Pentester.</p></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="personalgoal" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Objectifs académiques</title>
+        <id>portfolio:artefact63365</id>
+
+        <updated>2021-09-24T11:11:21+02:00</updated>
+        <published>2021-09-24T11:11:40+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Finir mon But-Réseau-Télécommunication puis poursuivre sur un Master ou après mon BUT j'aimerais intégré une école d'ingénieur pour espérer intégré la NSA . </p></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="academicgoal" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Objectifs de carrière</title>
+        <id>portfolio:artefact63368</id>
+
+        <updated>2021-09-24T11:11:30+02:00</updated>
+        <published>2021-09-24T11:11:13+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>Mon plus grand objectif sera d’intégrer la NSA  après avoir finis mon Master en cybersécurité ou après mon école d'ingénieur.</p></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="careergoal" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Compétences personnelles</title>
+        <id>portfolio:artefact63405</id>
+
+        <updated>2021-09-24T11:11:32+02:00</updated>
+        <published>2021-09-24T11:11:06+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>J'ai des compétences en langage de programmation , comme le C mais aussi en Arduino .</p>
+<p>Je suis aussi très sportif , j'ai pratiquer 4 ans de basketball , 3 ans de football et 5 ans de karaté</p></div></div></content>
+        <rdf:type rdf:resource="leap2:ability"/>
+        <mahara:artefactplugin mahara:type="personalskill" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Compétences académiques</title>
+        <id>portfolio:artefact63444</id>
+
+        <updated>2021-09-24T11:11:52+02:00</updated>
+        <published>2021-09-24T11:11:12+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>A l'université j'ai appris le HTML , CSS  , commencer a apprendre les bases du Réseau mais aussi le système  d’exploitation comme le Shell . </p></div></div></content>
+        <rdf:type rdf:resource="leap2:ability"/>
+        <mahara:artefactplugin mahara:type="academicskill" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Centres d&#039;intérêt</title>
+        <id>portfolio:artefact63516</id>
+
+        <updated>2021-09-24T11:11:39+02:00</updated>
+        <published>2021-09-24T11:11:39+02:00</published>
+
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><div><p>j'ai pratiquer 4 ans de basketball , 3 ans de football , 5 ans de karaté et durant mon temps libre je joue au jeux vidéos , regarde des animés ,joue au foot ou au basket et j'écoute de la music. </p></div></div></content>
+        <rdf:type rdf:resource="leap2:entry"/>
+        <mahara:artefactplugin mahara:type="interest" mahara:plugin="resume"/>
+
+
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>IMG-0370.png</title>
+        <id>portfolio:artefact63561</id>
+
+        <updated>2021-09-24T11:11:01+02:00</updated>
+        <published>2021-09-24T11:11:01+02:00</published>
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:resource"/>
+        <mahara:artefactplugin mahara:type="image" mahara:plugin="file"/>
+        <link rel="enclosure" type="image/png" href="files/1-IMG-0370.png"/>
+
+
+        <category term="Offline" scheme="categories:resource_type#" label="File"/>
+
+
+
+    </entry>
+
+
+    <entry>
+        <title>Killian Watremez</title>
+        <id>portfolio:artefactinternal</id>
+
+        <updated>2021-09-24T09:09:24+02:00</updated>
+
+
+        <content></content>
+        <rdf:type rdf:resource="leap2:person"/>
+        <mahara:artefactplugin mahara:type="internal" mahara:plugin="internal"/>
+
+
+        <category term="Self" scheme="categories:person_type#"/>
+
+
+
+
+
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="email"
+            leap2:field="email"
+
+            leap2:label="Adresse de courriel"
+
+        >killian.watremez@etu.u-pec.fr</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="firstname"
+            leap2:field="legal_given_name"
+
+            leap2:label="Prénom"
+
+        >KILLIAN</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="lastname"
+            leap2:field="legal_family_name"
+
+            leap2:label="Nom"
+
+        >WATREMEZ</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="preferredname"
+            leap2:field="preferred_given_name"
+
+            leap2:label="Nom préféré"
+
+        >Killian Watremez</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="internal"
+            mahara:artefacttype="studentid"
+            leap2:field="other"
+
+            leap2:label="Identifiant étudiant"
+
+        >u32103129</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/dateofbirth"
+            leap2:field="dob"
+
+            leap2:label="Date de naissance"
+
+        >2003-10-19T14:02:00+02:00</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/placeofbirth"
+            leap2:field="other" mahara:field="placeofbirth"
+
+            leap2:label="Lieu de naissance"
+
+        >Ermont</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/citizenship"
+            leap2:field="other" mahara:field="citizenship"
+
+            leap2:label="Citoyenneté"
+
+        >Française</leap2:persondata>
+        <leap2:persondata
+            mahara:artefactplugin="resume"
+            mahara:artefacttype="personalinformation/gender"
+            leap2:field="gender"
+
+            leap2:label="Sexe"
+
+        >1</leap2:persondata>
+
+
+    </entry>
+
+</feed>
